@@ -1,0 +1,10 @@
+{
+  "orgName": "Demo company",
+  "edition": "Developer",
+  "features": ["ProductsAndSchedules"],
+  "settings": {
+    "productSettings": {
+      "enableRevenueSchedule" : true
+    }
+  }
+}
